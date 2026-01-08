@@ -2,6 +2,10 @@
 
 A comprehensive Crew AI application for analyzing and classifying ABC Telecom customer support calls into different categories.
 
+## Architecture
+- Full diagrams: see [ARCHITECTURE_DIAGRAM.md](ARCHITECTURE_DIAGRAM.md)
+- Includes system context, components, and sequences for direct and Crew AI flows.
+
 ## Project Overview
 
 This project uses **Crew AI** to automate the analysis and classification of customer service calls for ABC Telecom. The system categorizes calls into 8 different types:
